@@ -38,7 +38,7 @@ public class LoginStepDeinition {
 		
 	}
 
-	@When("^user hit the login button")
+	@When("^user hit the login buttonnn")
 	public void user_hit_the_url()  {
 	//	driver.findElement(By.xpath("//button[text()='Login']")).click();
 	   System.out.println("hit the url successfuly");
